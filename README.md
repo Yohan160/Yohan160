@@ -24,7 +24,9 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Yohan-Clark/Yohan-Clark/snake-output/snake.svg" alt="Snake animation" />
+## 🐍 Snake Animation
+
+![Snake animation](https://github.com/Yohan160/Yohan160/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
