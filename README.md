@@ -36,4 +36,6 @@
 
 ###
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vrc6oyhq5uxlgbcgu3j3zdtfam&width=700)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vrc6oyhq5uxlgbcgu3j3zdtfam&count=1&width=700" />
+</p>
