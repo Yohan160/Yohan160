@@ -36,6 +36,4 @@
 
 ###
 
-## 🎵 O que estou ouvindo
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vrc6oyhq5uxlgbcgu3j3zdtfam)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vrc6oyhq5uxlgbcgu3j3zdtfam&width=700)
