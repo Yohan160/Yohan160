@@ -24,8 +24,6 @@
 
 ###
 
-## 🐍 Snake Animation
-
 ![Snake animation](https://github.com/Yohan160/Yohan160/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
