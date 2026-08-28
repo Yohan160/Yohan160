@@ -104,11 +104,15 @@ A ideia é criar uma plataforma capaz de analisar arquivos e links, identificand
 <div align="center">
 
 <a href="https://github.com/Yohan160">
-<img src="https://img.shields.io/badge/GitHub-Yohan160-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yohan-c-838a183b2/">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="COLOQUE_AQUI_SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="COLOQUE_AQUI_SEU_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
