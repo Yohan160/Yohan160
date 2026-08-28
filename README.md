@@ -6,17 +6,11 @@
 
 <br>
 
-<div align="center">
-
-<img src="./assets/gif-medieval.gif"
-     width="850"
-     alt="Pixel art medieval rainy night">
-
-</div>
+<img src="./assets/gif-medieval.gif" width="850" alt="Pixel art medieval rainy night"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Learning%2C+Building+and+Evolving;Python+%7C+Cybersecurity+%7C+Development;Exploring+Technology+and+Information+Security" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Learning%2C+Building+and+Evolving;Python+%7C+Cybersecurity+%7C+Development;Exploring+Technology+and+Information+Security" alt="Typing SVG"/>
 
 </div>
 
@@ -36,7 +30,7 @@ Atualmente, estou focado em transformar meus estudos em projetos práticos, expa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,mysql,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql,linux,git,github,vscode&theme=dark" />
 
 <br><br>
 
@@ -59,7 +53,15 @@ Atualmente, estou focado em transformar meus estudos em projetos práticos, expa
 
 ## 🚀 Projetos
 
-Alguns dos projetos que fazem parte da minha jornada de aprendizado:
+### 🌊 Espaço Tia Ju
+
+Página web desenvolvida para o **Espaço Tia Ju**, com foco em apresentar o projeto de forma visual, organizada e acessível.
+
+**Tecnologias:** HTML • CSS
+
+🔗 **[Acessar projeto](COLOQUE_AQUI_O_LINK_DO_ESPACO_TIA_JU)**
+
+---
 
 ### 🔐 Port Scanner
 
@@ -67,11 +69,13 @@ Ferramenta desenvolvida em **Python** para explorar conceitos de redes, portas e
 
 **Tecnologias:** Python • HTML • CSS
 
+🔗 **[Ver projeto no GitHub](COLOQUE_AQUI_O_LINK_DO_PORT_SCANNER)**
+
 ---
 
-### 🌐 Desenvolvimento Web
+### 🌐 Projetos Web
 
-Projetos desenvolvidos para praticar criação de interfaces, estrutura de páginas e aplicações web.
+Projetos desenvolvidos para praticar criação de interfaces, estrutura de páginas e desenvolvimento web.
 
 **Tecnologias:** HTML • CSS • Python
 
@@ -85,21 +89,6 @@ Projetos e experimentos voltados para aprendizado de **segurança da informaçã
 
 ---
 
-## 📚 Atualmente Aprendendo
-
-```text
-Python                  ███████████████░░░░░
-Cybersecurity           █████████████░░░░░░░
-Linux                   ████████████░░░░░░░░
-Redes                   ███████████░░░░░░░░░
-Desenvolvimento Web     ██████████░░░░░░░░░░
-Segurança da Informação █████████░░░░░░░░░░░
-```
-
-Meu foco é continuar desenvolvendo projetos práticos enquanto avanço nos estudos de programação, infraestrutura e segurança.
-
----
-
 ## 🎓 Formação & Certificações
 
 * 🎓 **Análise e Desenvolvimento de Sistemas** — Em andamento
@@ -107,28 +96,6 @@ Meu foco é continuar desenvolvendo projetos práticos enquanto avanço nos estu
 * 🛡️ **Introdução à Cibersegurança** — Cisco Networking Academy
 * 🌐 **Fundamentos de Redes** — Cisco Networking Academy
 * 🐍 **Python** — Bradesco
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yohan160&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=0D1117" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohan160&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=D4AF37&text_color=FFFFFF&bg_color=0D1117" height="180"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yohan160&bg_color=0D1117&color=D4AF37&line=8B0000&point=D4AF37&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
-
-</div>
 
 ---
 
@@ -154,6 +121,6 @@ Meu foco é continuar desenvolvendo projetos práticos enquanto avanço nos estu
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Yohan160&label=Profile%20Views&color=8B0000&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Yohan160&label=Profile%20Views&color=8B0000&style=for-the-badge" alt="Profile Views"/>
 
 </div>
