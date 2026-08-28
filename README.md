@@ -59,7 +59,7 @@ Página web desenvolvida para o **Espaço Tia Ju**, com foco em apresentar o pro
 
 **Tecnologias:** HTML • CSS
 
-🔗 **[Acessar projeto](COLOQUE_AQUI_O_LINK_DO_ESPACO_TIA_JU)**
+🔗 **[Acessar projeto](https://github.com/Yohan160/Espaco-Tia_ju)**
 
 ---
 
@@ -71,7 +71,7 @@ O projeto permite realizar uma análise de portas e visualizar os resultados atr
 
 **Tecnologias:** Python • Flask • HTML • CSS
 
-🔗 **[Ver projeto no GitHub](COLOQUE_AQUI_O_LINK_DO_PORT_SCANNER)**
+🔗 **[Ver projeto no GitHub](https://github.com/Yohan160/Scanner-de-portas-python)**
 
 ---
 
@@ -85,7 +85,7 @@ A ideia é criar uma plataforma capaz de analisar arquivos e links, identificand
 
 **Tecnologias:** Python • Cybersecurity • Web
 
-🔗 **[Ver projeto](COLOQUE_AQUI_O_LINK_DO_CYBERSCAN)**
+🔗 **[Ver projeto](https://github.com/Yohan160/Projeto-CYBERSCAN)**
 
 ---
 
@@ -107,11 +107,11 @@ A ideia é criar uma plataforma capaz de analisar arquivos e links, identificand
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="COLOQUE_AQUI_SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/yohan-c-838a183b2/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="COLOQUE_AQUI_SEU_INSTAGRAM">
+<a href="https://www.instagram.com/yohan_.zx/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
