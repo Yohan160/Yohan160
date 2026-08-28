@@ -6,7 +6,13 @@
 
 <br>
 
-<img src="https://78.media.tumblr.com/2d8ec1496142c22aacf563fbbc801232/tumblr_oql4zdKF9a1u77u56o1_1280.gif" width="850" alt="Pixel art medieval castle during a rainy night"/>
+<div align="center">
+
+<img src="./assets/gif-medieval.gif"
+     width="850"
+     alt="Pixel art medieval rainy night">
+
+</div>
 
 <br><br>
 
