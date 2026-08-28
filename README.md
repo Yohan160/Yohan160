@@ -30,7 +30,7 @@ Atualmente, estou focado em transformar meus estudos em projetos práticos, expa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,mysql,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql,linux&theme=dark"/>
 
 <br><br>
 
@@ -45,7 +45,7 @@ Atualmente, estou focado em transformar meus estudos em projetos práticos, expa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -65,27 +65,27 @@ Página web desenvolvida para o **Espaço Tia Ju**, com foco em apresentar o pro
 
 ### 🔐 Port Scanner
 
-Ferramenta desenvolvida em **Python** para explorar conceitos de redes, portas e segurança.
+Aplicação desenvolvida em **Python e Flask** para explorar conceitos de redes, portas e segurança.
 
-**Tecnologias:** Python • HTML • CSS
+O projeto permite realizar uma análise de portas e visualizar os resultados através de uma interface web.
+
+**Tecnologias:** Python • Flask • HTML • CSS
 
 🔗 **[Ver projeto no GitHub](COLOQUE_AQUI_O_LINK_DO_PORT_SCANNER)**
 
 ---
 
-### 🌐 Projetos Web
+### 🛡️ CYBERSCAN
 
-Projetos desenvolvidos para praticar criação de interfaces, estrutura de páginas e desenvolvimento web.
+Projeto em desenvolvimento voltado para **análise de arquivos e indicadores de segurança**.
 
-**Tecnologias:** HTML • CSS • Python
+A ideia é criar uma plataforma capaz de analisar arquivos e links, identificando possíveis ameaças e apresentando informações relevantes sobre a análise.
 
----
+**Status:** 🚧 Em desenvolvimento
 
-### 🛡️ Cybersecurity
+**Tecnologias:** Python • Cybersecurity • Web
 
-Projetos e experimentos voltados para aprendizado de **segurança da informação, redes e análise de segurança**.
-
-**Tecnologias:** Python • Linux • Redes
+🔗 **[Ver projeto](COLOQUE_AQUI_O_LINK_DO_CYBERSCAN)**
 
 ---
 
