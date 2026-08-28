@@ -10,7 +10,13 @@
 
 ### ⚔️ Developer in Training • Python • Cybersecurity • Technology ⚔️
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding animation"/>
+<div align="center">
+
+<img src="COLE_AQUI_O_LINK_DO_GIF_PIXEL_ART_MEDIEVAL_CHUVOSO.gif"
+width="850"
+alt="Pixel art medieval castle during a rainy night"/>
+
+</div>
 
 <br>
 
